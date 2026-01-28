@@ -1,4 +1,3 @@
-# EDA-Portfolio-Project
 # Project Title: Treadmill Buyer Profile
 
 ## Project Overview: ##
